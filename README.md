@@ -10,6 +10,7 @@ zilvzhong 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://e.ippw.pw/my-github-repos)
 * [世界，你好！](http://e.ippw.pw/hello-solo)
 
 
