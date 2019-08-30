@@ -36,6 +36,9 @@
 * [世界，你好！](http://e.ippw.pw/hello-solo)
 * [我在 GitHub 上的开源项目](http://e.ippw.pw/my-github-repos)
 * [Go语言学习11_字符串](http://e.ippw.pw/articles/2019/08/29/1567051861269.html)
+* [Go语言学习01_打印输出](http://e.ippw.pw/articles/2019/08/29/1567051869716.html)
+* [python 打印九九乘法表](http://e.ippw.pw/articles/2019/08/29/1567051871138.html)
+* [Go语言学习03_接收用户输入](http://e.ippw.pw/articles/2019/08/29/1567051871781.html)
 * [产品标准系统镜像](http://e.ippw.pw/articles/2019/08/29/1567051862108.html)
 * [Linux三剑客](http://e.ippw.pw/articles/2019/08/29/1567051862504.html)
 * [各系统下dd命令创建启动U盘](http://e.ippw.pw/articles/2019/08/29/1567051862825.html)
@@ -50,12 +53,12 @@
 * [Jestem](http://e.ippw.pw/articles/2019/08/29/1567051865074.html)
 * [好习惯 one by one 之一](http://e.ippw.pw/articles/2019/08/29/1567051865325.html)
 * [你忙得踏实吗？](http://e.ippw.pw/articles/2019/08/29/1567051865589.html)
-* [我所理解的生活](http://e.ippw.pw/articles/2019/08/29/1567051865786.html)
-* [Owncloud搭建](http://e.ippw.pw/articles/2019/08/29/1567051865992.html)
-* [使用Devise + CanCanCan + rolify控制权限指南](http://e.ippw.pw/articles/2019/08/29/1567051866303.html)
 
 ### 热议
 
+* [我所理解的生活](http://e.ippw.pw/articles/2019/08/29/1567051865786.html)
+* [Owncloud搭建](http://e.ippw.pw/articles/2019/08/29/1567051865992.html)
+* [使用Devise + CanCanCan + rolify控制权限指南](http://e.ippw.pw/articles/2019/08/29/1567051866303.html)
 * [template page](http://e.ippw.pw/articles/2019/08/29/1567051866871.html)
 * [Go语言学习23_多维数组](http://e.ippw.pw/articles/2019/08/29/1567051867274.html)
 * [Vim](http://e.ippw.pw/articles/2019/08/29/1567051867510.html)
@@ -66,16 +69,13 @@
 * [Go语言学习08_布尔类型](http://e.ippw.pw/articles/2019/08/29/1567051869056.html)
 * [Go语言学习06_字符型和编码](http://e.ippw.pw/articles/2019/08/29/1567051869271.html)
 * [Go语言学习20_时间类型](http://e.ippw.pw/articles/2019/08/29/1567051869461.html)
-* [Go语言学习01_打印输出](http://e.ippw.pw/articles/2019/08/29/1567051869716.html)
 * [WTG教程](http://e.ippw.pw/articles/2019/08/29/1567051869976.html)
 * [Ubuntu 使用笔记](http://e.ippw.pw/articles/2019/08/29/1567051870255.html)
 * [Go语言学习09_运算符](http://e.ippw.pw/articles/2019/08/29/1567051870553.html)
-* [Go语言学习_双重for循环](http://e.ippw.pw/articles/2019/08/29/1567051870772.html)
+* [Go语言学习15_双重for循环](http://e.ippw.pw/articles/2019/08/29/1567051870772.html)
 * [will_paginate使用指南](http://e.ippw.pw/articles/2019/08/29/1567051870950.html)
-* [python 打印九九乘法表](http://e.ippw.pw/articles/2019/08/29/1567051871138.html)
 * [Go语言学习21_常用数学函数和随机数](http://e.ippw.pw/articles/2019/08/29/1567051871327.html)
 * [Go语言学习22_数组](http://e.ippw.pw/articles/2019/08/29/1567051871510.html)
-* [Go语言学习03_接收用户输入](http://e.ippw.pw/articles/2019/08/29/1567051871781.html)
 
 ---
 
