@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [golang text/template](http://e.ippw.pw/articles/2019/09/03/1567522342307.html)
 * [Windows 实用技巧汇总](http://e.ippw.pw/articles/2019/08/29/1567051876573.html)
 * [Go语言学习04_变量声明和赋值](http://e.ippw.pw/articles/2019/08/29/1567051876380.html)
 * [Ruby字符串](http://e.ippw.pw/articles/2019/08/29/1567051876116.html)
@@ -29,15 +30,16 @@
 * [Go语言学习05_整型](http://e.ippw.pw/articles/2019/08/29/1567051872679.html)
 * [运算符与表达式](http://e.ippw.pw/articles/2019/08/29/1567051872387.html)
 * [Go语言学习02_转义字符](http://e.ippw.pw/articles/2019/08/29/1567051872171.html)
-* [Go语言学习17_条件判断if和程序调试](http://e.ippw.pw/articles/2019/08/29/1567051871980.html)
 
 ### 热门
 
 * [世界，你好！](http://e.ippw.pw/hello-solo)
 * [我在 GitHub 上的开源项目](http://e.ippw.pw/my-github-repos)
+* [Go语言学习17_条件判断if和程序调试](http://e.ippw.pw/articles/2019/08/29/1567051871980.html)
 * [Go语言学习11_字符串](http://e.ippw.pw/articles/2019/08/29/1567051861269.html)
 * [Go语言学习23_多维数组](http://e.ippw.pw/articles/2019/08/29/1567051867274.html)
 * [Go语言学习14_指针](http://e.ippw.pw/articles/2019/08/29/1567051868465.html)
+* [Go语言学习20_时间类型](http://e.ippw.pw/articles/2019/08/29/1567051869461.html)
 * [Go语言学习01_打印输出](http://e.ippw.pw/articles/2019/08/29/1567051869716.html)
 * [python 打印九九乘法表](http://e.ippw.pw/articles/2019/08/29/1567051871138.html)
 * [Go语言学习03_接收用户输入](http://e.ippw.pw/articles/2019/08/29/1567051871781.html)
@@ -51,11 +53,11 @@
 * [生活这件小事，烦请费思量](http://e.ippw.pw/articles/2019/08/29/1567051864164.html)
 * [眼中的自己](http://e.ippw.pw/articles/2019/08/29/1567051864372.html)
 * [学习方法的力量](http://e.ippw.pw/articles/2019/08/29/1567051864612.html)
-* [习惯成就高效能](http://e.ippw.pw/articles/2019/08/29/1567051864849.html)
-* [Jestem](http://e.ippw.pw/articles/2019/08/29/1567051865074.html)
 
 ### 热议
 
+* [习惯成就高效能](http://e.ippw.pw/articles/2019/08/29/1567051864849.html)
+* [Jestem](http://e.ippw.pw/articles/2019/08/29/1567051865074.html)
 * [好习惯 one by one 之一](http://e.ippw.pw/articles/2019/08/29/1567051865325.html)
 * [你忙得踏实吗？](http://e.ippw.pw/articles/2019/08/29/1567051865589.html)
 * [我所理解的生活](http://e.ippw.pw/articles/2019/08/29/1567051865786.html)
@@ -68,14 +70,12 @@
 * [Win7 下部署 Discuz!](http://e.ippw.pw/articles/2019/08/29/1567051868690.html)
 * [Go语言学习08_布尔类型](http://e.ippw.pw/articles/2019/08/29/1567051869056.html)
 * [Go语言学习06_字符型和编码](http://e.ippw.pw/articles/2019/08/29/1567051869271.html)
-* [Go语言学习20_时间类型](http://e.ippw.pw/articles/2019/08/29/1567051869461.html)
 * [WTG教程](http://e.ippw.pw/articles/2019/08/29/1567051869976.html)
 * [Ubuntu 使用笔记](http://e.ippw.pw/articles/2019/08/29/1567051870255.html)
 * [Go语言学习09_运算符](http://e.ippw.pw/articles/2019/08/29/1567051870553.html)
 * [Go语言学习15_双重for循环](http://e.ippw.pw/articles/2019/08/29/1567051870772.html)
 * [will_paginate使用指南](http://e.ippw.pw/articles/2019/08/29/1567051870950.html)
 * [Go语言学习21_常用数学函数和随机数](http://e.ippw.pw/articles/2019/08/29/1567051871327.html)
-* [Go语言学习22_数组](http://e.ippw.pw/articles/2019/08/29/1567051871510.html)
 
 ---
 
