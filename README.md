@@ -43,25 +43,26 @@
 * [Go语言学习17_条件判断if和程序调试](http://e.ippw.pw/articles/2019/08/29/1567051871980.html)
 * [Go语言学习19_Switch](http://e.ippw.pw/articles/2019/08/29/1567051873622.html)
 * [Linux三剑客](http://e.ippw.pw/articles/2019/08/29/1567051862504.html)
+* [眼中的自己](http://e.ippw.pw/articles/2019/08/29/1567051864372.html)
+* [学习方法的力量](http://e.ippw.pw/articles/2019/08/29/1567051864612.html)
 * [Vim](http://e.ippw.pw/articles/2019/08/29/1567051867510.html)
 * [Go语言学习20_时间类型](http://e.ippw.pw/articles/2019/08/29/1567051869461.html)
 * [WTG教程](http://e.ippw.pw/articles/2019/08/29/1567051869976.html)
+* [Go语言学习15_双重for循环](http://e.ippw.pw/articles/2019/08/29/1567051870772.html)
 * [python 打印九九乘法表](http://e.ippw.pw/articles/2019/08/29/1567051871138.html)
 * [Go语言学习03_接收用户输入](http://e.ippw.pw/articles/2019/08/29/1567051871781.html)
 * [运算符与表达式](http://e.ippw.pw/articles/2019/08/29/1567051872387.html)
 * [Excel 常用操作](http://e.ippw.pw/articles/2019/08/29/1567051873143.html)
-* [产品标准系统镜像](http://e.ippw.pw/articles/2019/08/29/1567051862108.html)
-* [各系统下dd命令创建启动U盘](http://e.ippw.pw/articles/2019/08/29/1567051862825.html)
-* [Go语言学习12_字符串截取和常用函数](http://e.ippw.pw/articles/2019/08/29/1567051863129.html)
 
 ### 热议
 
+* [产品标准系统镜像](http://e.ippw.pw/articles/2019/08/29/1567051862108.html)
+* [各系统下dd命令创建启动U盘](http://e.ippw.pw/articles/2019/08/29/1567051862825.html)
+* [Go语言学习12_字符串截取和常用函数](http://e.ippw.pw/articles/2019/08/29/1567051863129.html)
 * [领导与员工的艺术](http://e.ippw.pw/articles/2019/08/29/1567051863401.html)
 * [情绪管理的建议](http://e.ippw.pw/articles/2019/08/29/1567051863675.html)
 * [心欢语](http://e.ippw.pw/articles/2019/08/29/1567051863911.html)
 * [生活这件小事，烦请费思量](http://e.ippw.pw/articles/2019/08/29/1567051864164.html)
-* [眼中的自己](http://e.ippw.pw/articles/2019/08/29/1567051864372.html)
-* [学习方法的力量](http://e.ippw.pw/articles/2019/08/29/1567051864612.html)
 * [习惯成就高效能](http://e.ippw.pw/articles/2019/08/29/1567051864849.html)
 * [Jestem](http://e.ippw.pw/articles/2019/08/29/1567051865074.html)
 * [好习惯 one by one 之一](http://e.ippw.pw/articles/2019/08/29/1567051865325.html)
@@ -75,7 +76,6 @@
 * [Win7 下部署 Discuz!](http://e.ippw.pw/articles/2019/08/29/1567051868690.html)
 * [Go语言学习08_布尔类型](http://e.ippw.pw/articles/2019/08/29/1567051869056.html)
 * [Go语言学习06_字符型和编码](http://e.ippw.pw/articles/2019/08/29/1567051869271.html)
-* [Ubuntu 使用笔记](http://e.ippw.pw/articles/2019/08/29/1567051870255.html)
 
 ---
 
