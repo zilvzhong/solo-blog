@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Go-xorm：软删除Deleted](https://www.loonghoo.cn/articles/2019/09/17/1568711854996.html)
 * [来自❌纽约时报关于香港的谎言——网友牛评](https://www.loonghoo.cn/articles/2019/09/05/1567645591866.html)
 * [Go语言学习31_sort包](https://www.loonghoo.cn/articles/2019/09/05/1567642847042.html)
 * [Go语言学习30_copy函数](https://www.loonghoo.cn/articles/2019/09/05/1567642792739.html)
@@ -29,20 +30,19 @@
 * [TortoiseSVN 从 GitHub 更新时发生异常](https://www.loonghoo.cn/articles/2019/08/29/1567051874897.html)
 * [Mac 遇到问题集锦](https://www.loonghoo.cn/articles/2019/08/29/1567051874711.html)
 * [Windows 界面相关小知识点](https://www.loonghoo.cn/articles/2019/08/29/1567051874445.html)
-* [Go语言学习07_浮点数](https://www.loonghoo.cn/articles/2019/08/29/1567051874225.html)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](https://www.loonghoo.cn/my-github-repos)
 * [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
 * [世界，你好！](https://www.loonghoo.cn/hello-solo)
+* [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Go语言学习11_字符串](https://www.loonghoo.cn/articles/2019/08/29/1567051861269.html)
 * [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Go语言学习14_指针](https://www.loonghoo.cn/articles/2019/08/29/1567051868465.html)
 * [Go语言学习01_打印输出](https://www.loonghoo.cn/articles/2019/08/29/1567051869716.html)
 * [Go语言学习15_双重for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051870772.html)
 * [Go语言学习17_条件判断if和程序调试](https://www.loonghoo.cn/articles/2019/08/29/1567051871980.html)
-* [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Linux三剑客](https://www.loonghoo.cn/articles/2019/08/29/1567051862504.html)
 * [眼中的自己](https://www.loonghoo.cn/articles/2019/08/29/1567051864372.html)
 * [学习方法的力量](https://www.loonghoo.cn/articles/2019/08/29/1567051864612.html)
