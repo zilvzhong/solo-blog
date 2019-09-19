@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Mysql 查看某时间段SQL](https://www.loonghoo.cn/articles/2019/09/18/1568809201459.html)
 * [Go-xorm：软删除Deleted](https://www.loonghoo.cn/articles/2019/09/17/1568711854996.html)
 * [来自❌纽约时报关于香港的谎言——网友牛评](https://www.loonghoo.cn/articles/2019/09/05/1567645591866.html)
 * [Go语言学习31_sort包](https://www.loonghoo.cn/articles/2019/09/05/1567642847042.html)
@@ -29,13 +30,12 @@
 * [Go语言学习16_new函数](https://www.loonghoo.cn/articles/2019/08/29/1567051875210.html)
 * [TortoiseSVN 从 GitHub 更新时发生异常](https://www.loonghoo.cn/articles/2019/08/29/1567051874897.html)
 * [Mac 遇到问题集锦](https://www.loonghoo.cn/articles/2019/08/29/1567051874711.html)
-* [Windows 界面相关小知识点](https://www.loonghoo.cn/articles/2019/08/29/1567051874445.html)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](https://www.loonghoo.cn/my-github-repos)
+* [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
 * [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
-* [世界，你好！](https://www.loonghoo.cn/hello-solo)
 * [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Go语言学习11_字符串](https://www.loonghoo.cn/articles/2019/08/29/1567051861269.html)
 * [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
@@ -44,25 +44,21 @@
 * [Go语言学习15_双重for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051870772.html)
 * [Go语言学习17_条件判断if和程序调试](https://www.loonghoo.cn/articles/2019/08/29/1567051871980.html)
 * [Linux三剑客](https://www.loonghoo.cn/articles/2019/08/29/1567051862504.html)
+* [领导与员工的艺术](https://www.loonghoo.cn/articles/2019/08/29/1567051863401.html)
+* [情绪管理的建议](https://www.loonghoo.cn/articles/2019/08/29/1567051863675.html)
+* [心欢语](https://www.loonghoo.cn/articles/2019/08/29/1567051863911.html)
 * [眼中的自己](https://www.loonghoo.cn/articles/2019/08/29/1567051864372.html)
 * [学习方法的力量](https://www.loonghoo.cn/articles/2019/08/29/1567051864612.html)
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
 * [Go语言学习20_时间类型](https://www.loonghoo.cn/articles/2019/08/29/1567051869461.html)
 * [WTG教程](https://www.loonghoo.cn/articles/2019/08/29/1567051869976.html)
-* [python 打印九九乘法表](https://www.loonghoo.cn/articles/2019/08/29/1567051871138.html)
-* [Go语言学习03_接收用户输入](https://www.loonghoo.cn/articles/2019/08/29/1567051871781.html)
-* [运算符与表达式](https://www.loonghoo.cn/articles/2019/08/29/1567051872387.html)
-* [Excel 常用操作](https://www.loonghoo.cn/articles/2019/08/29/1567051873143.html)
+* [will_paginate使用指南](https://www.loonghoo.cn/articles/2019/08/29/1567051870950.html)
 
 ### 热议
 
 * [产品标准系统镜像](https://www.loonghoo.cn/articles/2019/08/29/1567051862108.html)
 * [各系统下dd命令创建启动U盘](https://www.loonghoo.cn/articles/2019/08/29/1567051862825.html)
 * [Go语言学习12_字符串截取和常用函数](https://www.loonghoo.cn/articles/2019/08/29/1567051863129.html)
-* [领导与员工的艺术](https://www.loonghoo.cn/articles/2019/08/29/1567051863401.html)
-* [情绪管理的建议](https://www.loonghoo.cn/articles/2019/08/29/1567051863675.html)
-* [心欢语](https://www.loonghoo.cn/articles/2019/08/29/1567051863911.html)
-* [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
 * [习惯成就高效能](https://www.loonghoo.cn/articles/2019/08/29/1567051864849.html)
 * [Jestem](https://www.loonghoo.cn/articles/2019/08/29/1567051865074.html)
 * [好习惯 one by one 之一](https://www.loonghoo.cn/articles/2019/08/29/1567051865325.html)
@@ -76,6 +72,10 @@
 * [Win7 下部署 Discuz!](https://www.loonghoo.cn/articles/2019/08/29/1567051868690.html)
 * [Go语言学习08_布尔类型](https://www.loonghoo.cn/articles/2019/08/29/1567051869056.html)
 * [Go语言学习06_字符型和编码](https://www.loonghoo.cn/articles/2019/08/29/1567051869271.html)
+* [Ubuntu 使用笔记](https://www.loonghoo.cn/articles/2019/08/29/1567051870255.html)
+* [Go语言学习09_运算符](https://www.loonghoo.cn/articles/2019/08/29/1567051870553.html)
+* [python 打印九九乘法表](https://www.loonghoo.cn/articles/2019/08/29/1567051871138.html)
+* [Go语言学习21_常用数学函数和随机数](https://www.loonghoo.cn/articles/2019/08/29/1567051871327.html)
 
 ---
 
