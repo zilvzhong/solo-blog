@@ -40,6 +40,7 @@
 * [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Go语言学习16_new函数](https://www.loonghoo.cn/articles/2019/08/29/1567051875210.html)
 * [Go语言学习11_字符串](https://www.loonghoo.cn/articles/2019/08/29/1567051861269.html)
+* [Linux三剑客](https://www.loonghoo.cn/articles/2019/08/29/1567051862504.html)
 * [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Go语言学习01_打印输出](https://www.loonghoo.cn/articles/2019/08/29/1567051869716.html)
 * [Go语言学习15_双重for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051870772.html)
@@ -52,12 +53,10 @@
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
 * [Go语言学习20_时间类型](https://www.loonghoo.cn/articles/2019/08/29/1567051869461.html)
 * [WTG教程](https://www.loonghoo.cn/articles/2019/08/29/1567051869976.html)
-* [will_paginate使用指南](https://www.loonghoo.cn/articles/2019/08/29/1567051870950.html)
 
 ### 热议
 
 * [产品标准系统镜像](https://www.loonghoo.cn/articles/2019/08/29/1567051862108.html)
-* [Linux三剑客](https://www.loonghoo.cn/articles/2019/08/29/1567051862504.html)
 * [各系统下dd命令创建启动U盘](https://www.loonghoo.cn/articles/2019/08/29/1567051862825.html)
 * [Go语言学习12_字符串截取和常用函数](https://www.loonghoo.cn/articles/2019/08/29/1567051863129.html)
 * [习惯成就高效能](https://www.loonghoo.cn/articles/2019/08/29/1567051864849.html)
@@ -75,6 +74,7 @@
 * [Go语言学习06_字符型和编码](https://www.loonghoo.cn/articles/2019/08/29/1567051869271.html)
 * [Ubuntu 使用笔记](https://www.loonghoo.cn/articles/2019/08/29/1567051870255.html)
 * [Go语言学习09_运算符](https://www.loonghoo.cn/articles/2019/08/29/1567051870553.html)
+* [will_paginate使用指南](https://www.loonghoo.cn/articles/2019/08/29/1567051870950.html)
 * [python 打印九九乘法表](https://www.loonghoo.cn/articles/2019/08/29/1567051871138.html)
 
 ---
