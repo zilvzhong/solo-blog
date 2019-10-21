@@ -42,6 +42,7 @@
 * [Go语言学习16_new函数](https://www.loonghoo.cn/articles/2019/08/29/1567051875210.html)
 * [Go语言学习11_字符串](https://www.loonghoo.cn/articles/2019/08/29/1567051861269.html)
 * [Linux三剑客](https://www.loonghoo.cn/articles/2019/08/29/1567051862504.html)
+* [习惯成就高效能](https://www.loonghoo.cn/articles/2019/08/29/1567051864849.html)
 * [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Go语言学习01_打印输出](https://www.loonghoo.cn/articles/2019/08/29/1567051869716.html)
 * [Go语言学习15_双重for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051870772.html)
@@ -51,7 +52,6 @@
 * [心欢语](https://www.loonghoo.cn/articles/2019/08/29/1567051863911.html)
 * [眼中的自己](https://www.loonghoo.cn/articles/2019/08/29/1567051864372.html)
 * [学习方法的力量](https://www.loonghoo.cn/articles/2019/08/29/1567051864612.html)
-* [习惯成就高效能](https://www.loonghoo.cn/articles/2019/08/29/1567051864849.html)
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
 
 ### 热议
