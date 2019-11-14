@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Go语言学习69_Goroutine](https://www.loonghoo.cn/articles/2019/11/13/1573637657102.html)
+* [Go语言学习68_线程休眠和计时器](https://www.loonghoo.cn/articles/2019/11/13/1573635192140.html)
 * [Socket](https://www.loonghoo.cn/articles/2019/11/13/1573633072646.html)
 * [网络通信概述](https://www.loonghoo.cn/articles/2019/11/13/1573624695573.html)
 * [Go语言学习67_日志](https://www.loonghoo.cn/articles/2019/11/13/1573624240003.html)
@@ -28,8 +30,6 @@
 * [Go语言学习54_断言](https://www.loonghoo.cn/articles/2019/11/12/1573565943257.html)
 * [Go语言学习53_多肽](https://www.loonghoo.cn/articles/2019/11/12/1573563824982.html)
 * [Go语言学习52_接口](https://www.loonghoo.cn/articles/2019/11/12/1573562892779.html)
-* [Go语言学习51_继承](https://www.loonghoo.cn/articles/2019/11/12/1573562392217.html)
-* [Go语言学习50_封装](https://www.loonghoo.cn/articles/2019/11/12/1573561793884.html)
 
 ### 热门
 
@@ -38,13 +38,13 @@
 * [我在 GitHub 上的开源项目](https://www.loonghoo.cn/my-github-repos)
 * [golang text/template](https://www.loonghoo.cn/articles/2019/09/03/1567522342307.html)
 * [frp-内网穿透反向代理应用](https://www.loonghoo.cn/articles/2019/09/25/1569417267545.html)
+* [Go语言学习27_切片声明与定义](https://www.loonghoo.cn/articles/2019/09/05/1567641125505.html)
 * [Go-xorm：软删除Deleted](https://www.loonghoo.cn/articles/2019/09/17/1568711854996.html)
 * [Mysql 查看某时间段SQL](https://www.loonghoo.cn/articles/2019/09/18/1568809201459.html)
 * [xorm 文档笔记-02](https://www.loonghoo.cn/articles/2019/09/20/1568941537549.html)
-* [Go语言学习27_切片声明与定义](https://www.loonghoo.cn/articles/2019/09/05/1567641125505.html)
 * [xorm文档笔记-01](https://www.loonghoo.cn/articles/2019/09/19/1568889223503.html)
-* [Go语言学习24_for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051875508.html)
 * [Go语言学习30_copy函数](https://www.loonghoo.cn/articles/2019/09/05/1567642792739.html)
+* [Go语言学习24_for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051875508.html)
 * [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
 * [python 版本控制pyenv](https://www.loonghoo.cn/articles/2019/08/29/1567051875681.html)
 * [我所理解的生活](https://www.loonghoo.cn/articles/2019/08/29/1567051865786.html)
