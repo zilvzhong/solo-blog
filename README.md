@@ -10,6 +10,11 @@
 
 ### 最新
 
+* [Go语言学习73_select](https://www.loonghoo.cn/articles/2019/11/16/1573870429841.html)
+* [Go语言学习72_deadlock和buff channel](https://www.loonghoo.cn/articles/2019/11/16/1573869421063.html)
+* [Go语言学习71_channel](https://www.loonghoo.cn/articles/2019/11/14/1573745889206.html)
+* [Go语言学习71_互斥锁](https://www.loonghoo.cn/articles/2019/11/14/1573738612955.html)
+* [Go语言学习70_WaitGroup](https://www.loonghoo.cn/articles/2019/11/14/1573737639388.html)
 * [Go语言学习69_Goroutine](https://www.loonghoo.cn/articles/2019/11/13/1573637657102.html)
 * [Go语言学习68_线程休眠和计时器](https://www.loonghoo.cn/articles/2019/11/13/1573635192140.html)
 * [Socket](https://www.loonghoo.cn/articles/2019/11/13/1573633072646.html)
@@ -25,11 +30,6 @@
 * [Go语言学习59_获取操作系统用户信息](https://www.loonghoo.cn/articles/2019/11/13/1573612628004.html)
 * [Go语言学习58_recover](https://www.loonghoo.cn/articles/2019/11/13/1573612131398.html)
 * [Go语言学习57_panic](https://www.loonghoo.cn/articles/2019/11/13/1573611569964.html)
-* [Go语言学习56_defer使用](https://www.loonghoo.cn/articles/2019/11/13/1573611143499.html)
-* [Go语言学习55_错误](https://www.loonghoo.cn/articles/2019/11/13/1573610322829.html)
-* [Go语言学习54_断言](https://www.loonghoo.cn/articles/2019/11/12/1573565943257.html)
-* [Go语言学习53_多肽](https://www.loonghoo.cn/articles/2019/11/12/1573563824982.html)
-* [Go语言学习52_接口](https://www.loonghoo.cn/articles/2019/11/12/1573562892779.html)
 
 ### 热门
 
@@ -43,16 +43,16 @@
 * [Mysql 查看某时间段SQL](https://www.loonghoo.cn/articles/2019/09/18/1568809201459.html)
 * [xorm 文档笔记-02](https://www.loonghoo.cn/articles/2019/09/20/1568941537549.html)
 * [xorm文档笔记-01](https://www.loonghoo.cn/articles/2019/09/19/1568889223503.html)
+* [Go语言学习18_if其他结构和多重嵌套](https://www.loonghoo.cn/articles/2019/08/29/1567051873917.html)
 * [Go语言学习30_copy函数](https://www.loonghoo.cn/articles/2019/09/05/1567642792739.html)
 * [Go语言学习24_for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051875508.html)
 * [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
+* [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [python 版本控制pyenv](https://www.loonghoo.cn/articles/2019/08/29/1567051875681.html)
 * [我所理解的生活](https://www.loonghoo.cn/articles/2019/08/29/1567051865786.html)
-* [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
-* [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
-* [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Go语言学习14_指针](https://www.loonghoo.cn/articles/2019/08/29/1567051868465.html)
-* [Go语言学习17_条件判断if和程序调试](https://www.loonghoo.cn/articles/2019/08/29/1567051871980.html)
+* [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
+* [Go语言学习25_break和continue在for循环中的使用](https://www.loonghoo.cn/articles/2019/09/05/1567640032733.html)
 
 ### 热议
 
@@ -73,9 +73,9 @@
 * [Owncloud搭建](https://www.loonghoo.cn/articles/2019/08/29/1567051865992.html)
 * [使用Devise + CanCanCan + rolify控制权限指南](https://www.loonghoo.cn/articles/2019/08/29/1567051866303.html)
 * [template page](https://www.loonghoo.cn/articles/2019/08/29/1567051866871.html)
+* [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
 * [python基础](https://www.loonghoo.cn/articles/2019/08/29/1567051867899.html)
-* [Go语言学习10_位运算符](https://www.loonghoo.cn/articles/2019/08/29/1567051868221.html)
 
 ---
 
