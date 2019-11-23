@@ -47,12 +47,12 @@
 * [Go语言学习30_copy函数](https://www.loonghoo.cn/articles/2019/09/05/1567642792739.html)
 * [Go语言学习24_for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051875508.html)
 * [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
+* [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
 * [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Go语言学习16_new函数](https://www.loonghoo.cn/articles/2019/08/29/1567051875210.html)
 * [python 版本控制pyenv](https://www.loonghoo.cn/articles/2019/08/29/1567051875681.html)
 * [Go语言学习28_切片长度_容量_append](https://www.loonghoo.cn/articles/2019/09/05/1567641699001.html)
 * [我所理解的生活](https://www.loonghoo.cn/articles/2019/08/29/1567051865786.html)
-* [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 
 ### 热议
 
@@ -73,9 +73,9 @@
 * [Owncloud搭建](https://www.loonghoo.cn/articles/2019/08/29/1567051865992.html)
 * [使用Devise + CanCanCan + rolify控制权限指南](https://www.loonghoo.cn/articles/2019/08/29/1567051866303.html)
 * [template page](https://www.loonghoo.cn/articles/2019/08/29/1567051866871.html)
+* [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
 * [python基础](https://www.loonghoo.cn/articles/2019/08/29/1567051867899.html)
-* [Go语言学习10_位运算符](https://www.loonghoo.cn/articles/2019/08/29/1567051868221.html)
 
 ---
 
