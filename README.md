@@ -38,8 +38,8 @@
 * [我在 GitHub 上的开源项目](https://www.loonghoo.cn/my-github-repos)
 * [golang text/template](https://www.loonghoo.cn/articles/2019/09/03/1567522342307.html)
 * [frp-内网穿透反向代理应用](https://www.loonghoo.cn/articles/2019/09/25/1569417267545.html)
-* [Go语言学习27_切片声明与定义](https://www.loonghoo.cn/articles/2019/09/05/1567641125505.html)
 * [Go语言学习18_if其他结构和多重嵌套](https://www.loonghoo.cn/articles/2019/08/29/1567051873917.html)
+* [Go语言学习27_切片声明与定义](https://www.loonghoo.cn/articles/2019/09/05/1567641125505.html)
 * [Mysql 查看某时间段SQL](https://www.loonghoo.cn/articles/2019/09/18/1568809201459.html)
 * [Go-xorm：软删除Deleted](https://www.loonghoo.cn/articles/2019/09/17/1568711854996.html)
 * [xorm 文档笔记-02](https://www.loonghoo.cn/articles/2019/09/20/1568941537549.html)
@@ -47,12 +47,12 @@
 * [Go语言学习30_copy函数](https://www.loonghoo.cn/articles/2019/09/05/1567642792739.html)
 * [Go语言学习24_for循环](https://www.loonghoo.cn/articles/2019/08/29/1567051875508.html)
 * [生活这件小事，烦请费思量](https://www.loonghoo.cn/articles/2019/08/29/1567051864164.html)
+* [Go语言学习14_指针](https://www.loonghoo.cn/articles/2019/08/29/1567051868465.html)
 * [Go语言学习02_转义字符](https://www.loonghoo.cn/articles/2019/08/29/1567051872171.html)
 * [Go语言学习19_Switch](https://www.loonghoo.cn/articles/2019/08/29/1567051873622.html)
 * [Go语言学习16_new函数](https://www.loonghoo.cn/articles/2019/08/29/1567051875210.html)
 * [python 版本控制pyenv](https://www.loonghoo.cn/articles/2019/08/29/1567051875681.html)
 * [Go语言学习28_切片长度_容量_append](https://www.loonghoo.cn/articles/2019/09/05/1567641699001.html)
-* [我所理解的生活](https://www.loonghoo.cn/articles/2019/08/29/1567051865786.html)
 
 ### 热议
 
@@ -70,12 +70,12 @@
 * [Jestem](https://www.loonghoo.cn/articles/2019/08/29/1567051865074.html)
 * [好习惯 one by one 之一](https://www.loonghoo.cn/articles/2019/08/29/1567051865325.html)
 * [你忙得踏实吗？](https://www.loonghoo.cn/articles/2019/08/29/1567051865589.html)
+* [我所理解的生活](https://www.loonghoo.cn/articles/2019/08/29/1567051865786.html)
 * [Owncloud搭建](https://www.loonghoo.cn/articles/2019/08/29/1567051865992.html)
 * [使用Devise + CanCanCan + rolify控制权限指南](https://www.loonghoo.cn/articles/2019/08/29/1567051866303.html)
 * [template page](https://www.loonghoo.cn/articles/2019/08/29/1567051866871.html)
 * [Go语言学习23_多维数组](https://www.loonghoo.cn/articles/2019/08/29/1567051867274.html)
 * [Vim](https://www.loonghoo.cn/articles/2019/08/29/1567051867510.html)
-* [python基础](https://www.loonghoo.cn/articles/2019/08/29/1567051867899.html)
 
 ---
 
